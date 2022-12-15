@@ -1,2 +1,0 @@
-# Ignite-Lab-Node.js
- 
